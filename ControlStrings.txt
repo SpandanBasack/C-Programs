@@ -1,0 +1,60 @@
+________________________________________________________________
+FORMAT SPECIFIER               ::          DESCRIPTION
+________________________________________________________________
+%c                                          Character       
+%d                                       Signed Integer 
+
+%e or %E                              Scientific notation
+
+%f                                       Floating point
+
+%g or %G.                             Similar as %e or %E
+
+%hi.                                     Signed Integer
+
+%hu                                 Unsigned Integer(Short) 
+
+%i                                       Signed Integer
+
+%l or %ld or %li                         Signed Integer
+
+%lf                                      Floating point
+
+%Lf                                      Floating point 
+
+%lu                                     Unsigned integer
+
+%lli, %lld                            Signed long long int
+
+%llu.                                unsigned long long int
+
+%o.                              Octal representation of Integer.
+
+%p                              Address of pointer to void void *   
+                                              void *
+
+%s                                       String char *
+%u                                       Unsigned int 
+
+                                      Unsigned short int 
+
+%n                                      Prints nothing
+
+%%                                    Prints % character
+
+%o                                   Octal representation 
+
+%p                            Address of pointer to void void * 
+                                             void *
+
+%s                                       String char *
+
+%u                                     Unsigned Integer 
+
+%x or %X                         Hexadecimal representation of 
+                                         Unsigned Int.
+
+%n                                      Prints nothing  
+
+%%                                   Prints % character
+________________________________________________________________
